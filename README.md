@@ -2,4 +2,4 @@
 
 Hi All,
 
-Krishna here, I am creating me first reposirtory.
+Krishna here, I am creating my first reposirtory.
